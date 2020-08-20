@@ -1,5 +1,5 @@
 # Manual Terios T3
-Manual en español del terios t3.
+Manual en español del terios t3. Te invito a leer la versión [light del manual](https://github.com/sutherland007/manual-terios-t3/wiki) en el wiki
 
 # ¿Cómo aportar?
 Puedes hacerlo en la pestaña que dice issues y ahí postear el aporte en cuestión.
